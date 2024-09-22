@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main () {
- printf("Salut git (main vers 4)");
+ printf("Salut git (main vers 4+)");
 }
